@@ -894,5 +894,396 @@
       }
     },
     "id": "5fa1a9ae-a5bb-4733-aa7a-d9aac947c691"
+  },
+  {
+    "type": "DELETE$$@atrilabs/app-design-forest/src/componentTree",
+    "id": "591d96f1-2cf0-4280-a213-53ba55e08fa5"
+  },
+  {
+    "id": "07e007fe-508d-453d-9b72-96bf0dbe94f4",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/cssTree",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/src/cssTree",
+    "refId": "6f9136fe-a6b7-4db1-b095-4e0e313139e3",
+    "childId": "07e007fe-508d-453d-9b72-96bf0dbe94f4"
+  },
+  {
+    "id": "1595f32f-993a-4a53-a558-82df1dd59e81",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/customPropsTree",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "initialTop": 32,
+          "initialOpacity": 0,
+          "finalTop": 0,
+          "finalOpacity": 1,
+          "threshold": 0.5
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/src/customPropsTree",
+    "refId": "6f9136fe-a6b7-4db1-b095-4e0e313139e3",
+    "childId": "1595f32f-993a-4a53-a558-82df1dd59e81"
+  },
+  {
+    "id": "9a2e6640-fdf7-45a9-bdf8-70ea31f5eafe",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/callbackHandlerTree",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/src/callbackHandlerTree",
+    "refId": "6f9136fe-a6b7-4db1-b095-4e0e313139e3",
+    "childId": "9a2e6640-fdf7-45a9-bdf8-70ea31f5eafe"
+  },
+  {
+    "id": "6f9136fe-a6b7-4db1-b095-4e0e313139e3",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/componentTree",
+    "meta": {
+      "pkg": "framer_demo",
+      "key": "IntersectionAnimationFlex",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema/src/index.ts"
+    },
+    "state": {
+      "parent": {
+        "id": "ae4f0935-07b6-4c9e-8b7d-33daafc7a7ad",
+        "index": 1,
+        "canvasZoneId": "main"
+      }
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/componentTree",
+    "id": "6f9136fe-a6b7-4db1-b095-4e0e313139e3",
+    "slice": {
+      "alias": "IntersectionAnimationFlex2"
+    }
+  },
+  {
+    "type": "DELETE$$@atrilabs/app-design-forest/src/componentTree",
+    "id": "ae4f0935-07b6-4c9e-8b7d-33daafc7a7ad"
+  },
+  {
+    "id": "6d648b68-64ff-41d0-8431-4c588f51fa61",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/cssTree",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/src/cssTree",
+    "refId": "67737457-b9fa-4241-865e-139dc43071d6",
+    "childId": "6d648b68-64ff-41d0-8431-4c588f51fa61"
+  },
+  {
+    "id": "5cb1d211-383b-40ec-8fce-a4a523786a11",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/customPropsTree",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "initialTop": 32,
+          "initialOpacity": 0,
+          "finalTop": 0,
+          "finalOpacity": 1,
+          "threshold": 0.5
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/src/customPropsTree",
+    "refId": "67737457-b9fa-4241-865e-139dc43071d6",
+    "childId": "5cb1d211-383b-40ec-8fce-a4a523786a11"
+  },
+  {
+    "id": "1eb530f3-76f3-4268-b401-e7d294d140d5",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/callbackHandlerTree",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/src/callbackHandlerTree",
+    "refId": "67737457-b9fa-4241-865e-139dc43071d6",
+    "childId": "1eb530f3-76f3-4268-b401-e7d294d140d5"
+  },
+  {
+    "id": "67737457-b9fa-4241-865e-139dc43071d6",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/componentTree",
+    "meta": {
+      "pkg": "framer_demo",
+      "key": "IntersectionAnimationFlex",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema/src/index.ts"
+    },
+    "state": {
+      "parent": {
+        "id": "258eeae3-f985-4aff-8c21-419a12f4bde9",
+        "index": 1,
+        "canvasZoneId": "main"
+      }
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/componentTree",
+    "id": "67737457-b9fa-4241-865e-139dc43071d6",
+    "slice": {
+      "alias": "IntersectionAnimationFlex3"
+    }
+  },
+  {
+    "type": "DELETE$$@atrilabs/app-design-forest/src/componentTree",
+    "id": "67737457-b9fa-4241-865e-139dc43071d6"
+  },
+  {
+    "id": "2450b0ee-f0b8-4339-98b6-c09fef5f6f80",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/cssTree",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/src/cssTree",
+    "refId": "864032a3-fbc7-4d3f-a2a6-1b4e2aeae089",
+    "childId": "2450b0ee-f0b8-4339-98b6-c09fef5f6f80"
+  },
+  {
+    "id": "483a27c3-b281-4c4a-b61a-8697b193209d",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/customPropsTree",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "initialTop": 32,
+          "initialOpacity": 0,
+          "finalTop": 0,
+          "finalOpacity": 1,
+          "threshold": 0.5
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/src/customPropsTree",
+    "refId": "864032a3-fbc7-4d3f-a2a6-1b4e2aeae089",
+    "childId": "483a27c3-b281-4c4a-b61a-8697b193209d"
+  },
+  {
+    "id": "9615cd33-90f8-45b5-99ac-dcf07c0fc7f1",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/callbackHandlerTree",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/src/callbackHandlerTree",
+    "refId": "864032a3-fbc7-4d3f-a2a6-1b4e2aeae089",
+    "childId": "9615cd33-90f8-45b5-99ac-dcf07c0fc7f1"
+  },
+  {
+    "id": "864032a3-fbc7-4d3f-a2a6-1b4e2aeae089",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/componentTree",
+    "meta": {
+      "pkg": "framer_demo",
+      "key": "IntersectionAnimationFlex",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema/src/index.ts"
+    },
+    "state": {
+      "parent": {
+        "id": "258eeae3-f985-4aff-8c21-419a12f4bde9",
+        "index": 1,
+        "canvasZoneId": "main"
+      }
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/componentTree",
+    "id": "864032a3-fbc7-4d3f-a2a6-1b4e2aeae089",
+    "slice": {
+      "alias": "IntersectionAnimationFlex4"
+    }
+  },
+  {
+    "id": "0105d430-0af2-4cba-9220-a25305d2e087",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/cssTree",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/src/cssTree",
+    "refId": "a7cdbfcc-653c-445a-a9a0-1efc092a7c9f",
+    "childId": "0105d430-0af2-4cba-9220-a25305d2e087"
+  },
+  {
+    "id": "7842968d-8604-4f0f-9087-1f44d5d29c30",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/customPropsTree",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "text": "Your text Here!"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/src/customPropsTree",
+    "refId": "a7cdbfcc-653c-445a-a9a0-1efc092a7c9f",
+    "childId": "7842968d-8604-4f0f-9087-1f44d5d29c30"
+  },
+  {
+    "id": "7884b16a-c0a5-4d3e-a133-926af74fb5d2",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/callbackHandlerTree",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/src/callbackHandlerTree",
+    "refId": "a7cdbfcc-653c-445a-a9a0-1efc092a7c9f",
+    "childId": "7884b16a-c0a5-4d3e-a133-926af74fb5d2"
+  },
+  {
+    "id": "a7cdbfcc-653c-445a-a9a0-1efc092a7c9f",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/componentTree",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "TextBox",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema/src/index.ts"
+    },
+    "state": {
+      "parent": {
+        "id": "864032a3-fbc7-4d3f-a2a6-1b4e2aeae089",
+        "index": 1,
+        "canvasZoneId": "main"
+      }
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/componentTree",
+    "id": "a7cdbfcc-653c-445a-a9a0-1efc092a7c9f",
+    "slice": {
+      "alias": "TextBox2"
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "<p>Wow!</p>\n<p>This textbox was just scrolled into view.</p>\n<p>Nice Animation is coming up.</p>"
+        }
+      }
+    },
+    "id": "7842968d-8604-4f0f-9087-1f44d5d29c30"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontSize": "6px"
+        }
+      }
+    },
+    "id": "0105d430-0af2-4cba-9220-a25305d2e087"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontSize": "64px"
+        }
+      }
+    },
+    "id": "0105d430-0af2-4cba-9220-a25305d2e087"
   }
 ]

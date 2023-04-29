@@ -3,15 +3,43 @@ import { motion, useAnimationControls } from "framer-motion";
 
 const IntersectionAnimationFlex = React.forwardRef<
 	HTMLDivElement,
-	{ children: React.ReactNode[]; styles: React.CSSProperties }
+	{
+		children: React.ReactNode[];
+		styles: React.CSSProperties;
+		custom: {
+			initialTop?: number;
+			initialLeft?: number;
+			initialRight?: number;
+			initialBottom?: number;
+			finalTop?: number;
+			finalLeft?: number;
+			finalRight?: number;
+			finalBottom?: number;
+			initialOpacity?: number;
+			finalOpacity?: number;
+			threshold?: number;
+		};
+	}
 >((props, ref) => {
 	const internalRef = useRef<HTMLDivElement>(null);
 
 	// animation
 	const controls = useAnimationControls();
 	const variations = {
-		initial: { opacity: 0, top: 32 },
-		inView: { opacity: 1, top: 0 },
+		initial: {
+			opacity: props.custom.initialOpacity ?? 0,
+			top: props.custom.initialTop || 32,
+			left: props.custom.initialLeft,
+			right: props.custom.initialRight,
+			bottom: props.custom.initialBottom,
+		},
+		inView: {
+			opacity: props.custom.finalOpacity ?? 1,
+			top: props.custom.finalTop || 0,
+			left: props.custom.finalLeft,
+			right: props.custom.finalRight,
+			bottom: props.custom.finalBottom,
+		},
 	};
 
 	const observer = useMemo(() => {
@@ -25,9 +53,9 @@ const IntersectionAnimationFlex = React.forwardRef<
 					}
 				});
 			},
-			{ threshold: 0.4 }
+			{ threshold: props.custom.threshold ?? 0.4 }
 		);
-	}, [controls]);
+	}, [controls, props.custom.threshold]);
 
 	useEffect(() => {
 		if (internalRef && internalRef.current) {
