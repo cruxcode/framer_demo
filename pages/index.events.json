@@ -1,0 +1,116 @@
+[
+  {
+    "id": "585b65b5-5bea-4776-9fba-4c2c51082465",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/cssTree",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/src/cssTree",
+    "refId": "90ee06e6-dcc7-4771-8d52-1f290050ee17",
+    "childId": "585b65b5-5bea-4776-9fba-4c2c51082465"
+  },
+  {
+    "id": "9b24b411-59f6-4e36-b3bd-66e941a127ed",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/customPropsTree",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/src/customPropsTree",
+    "refId": "90ee06e6-dcc7-4771-8d52-1f290050ee17",
+    "childId": "9b24b411-59f6-4e36-b3bd-66e941a127ed"
+  },
+  {
+    "id": "35ab0c39-caa4-4655-9a13-186bcf938f8f",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/callbackHandlerTree",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/src/callbackHandlerTree",
+    "refId": "90ee06e6-dcc7-4771-8d52-1f290050ee17",
+    "childId": "35ab0c39-caa4-4655-9a13-186bcf938f8f"
+  },
+  {
+    "id": "90ee06e6-dcc7-4771-8d52-1f290050ee17",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/componentTree",
+    "meta": {
+      "pkg": "framer_demo",
+      "key": "UnderlineAnimation",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema/src/index.ts"
+    },
+    "state": {
+      "parent": {
+        "id": "__atri_canvas_zone_root__",
+        "index": 1,
+        "canvasZoneId": "main"
+      }
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/componentTree",
+    "id": "90ee06e6-dcc7-4771-8d52-1f290050ee17",
+    "slice": {
+      "alias": "UnderlineAnimation1"
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "hoverColor": "#000000"
+        }
+      }
+    },
+    "id": "9b24b411-59f6-4e36-b3bd-66e941a127ed"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "hoverColor": "#3617ea"
+        }
+      }
+    },
+    "id": "9b24b411-59f6-4e36-b3bd-66e941a127ed"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "hoverColor": "#3617ea",
+          "nonHoverColor": "#9d96ca"
+        }
+      }
+    },
+    "id": "9b24b411-59f6-4e36-b3bd-66e941a127ed"
+  }
+]
