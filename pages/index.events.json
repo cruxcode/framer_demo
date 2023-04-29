@@ -729,5 +729,170 @@
       }
     },
     "id": "89fd1993-a539-4088-92b7-9b6d88c9a1ba"
+  },
+  {
+    "id": "5fa1a9ae-a5bb-4733-aa7a-d9aac947c691",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/cssTree",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/src/cssTree",
+    "refId": "591d96f1-2cf0-4280-a213-53ba55e08fa5",
+    "childId": "5fa1a9ae-a5bb-4733-aa7a-d9aac947c691"
+  },
+  {
+    "id": "d1015536-cef2-4c15-a3fc-775081ed6f5e",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/customPropsTree",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "text": "Your text Here!"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/src/customPropsTree",
+    "refId": "591d96f1-2cf0-4280-a213-53ba55e08fa5",
+    "childId": "d1015536-cef2-4c15-a3fc-775081ed6f5e"
+  },
+  {
+    "id": "328a1a21-48c6-4e16-9496-157c0b15b3b9",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/callbackHandlerTree",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/src/callbackHandlerTree",
+    "refId": "591d96f1-2cf0-4280-a213-53ba55e08fa5",
+    "childId": "328a1a21-48c6-4e16-9496-157c0b15b3b9"
+  },
+  {
+    "id": "591d96f1-2cf0-4280-a213-53ba55e08fa5",
+    "type": "CREATE$$@atrilabs/app-design-forest/src/componentTree",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "TextBox",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema/src/index.ts"
+    },
+    "state": {
+      "parent": {
+        "id": "ae4f0935-07b6-4c9e-8b7d-33daafc7a7ad",
+        "index": 1,
+        "canvasZoneId": "main"
+      }
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/componentTree",
+    "id": "591d96f1-2cf0-4280-a213-53ba55e08fa5",
+    "slice": {
+      "alias": "TextBox1"
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "<p>Wow!</p>\n<p>This textbox was just scrolled into view.</p>\n<p>Nice Animation is coming up.</p>"
+        }
+      }
+    },
+    "id": "d1015536-cef2-4c15-a3fc-775081ed6f5e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontSize": "3px"
+        }
+      }
+    },
+    "id": "5fa1a9ae-a5bb-4733-aa7a-d9aac947c691"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontSize": "32px"
+        }
+      }
+    },
+    "id": "5fa1a9ae-a5bb-4733-aa7a-d9aac947c691"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontSize": "3px"
+        }
+      }
+    },
+    "id": "5fa1a9ae-a5bb-4733-aa7a-d9aac947c691"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontSize": ""
+        }
+      }
+    },
+    "id": "5fa1a9ae-a5bb-4733-aa7a-d9aac947c691"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontSize": "6px"
+        }
+      }
+    },
+    "id": "5fa1a9ae-a5bb-4733-aa7a-d9aac947c691"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontSize": "64px"
+        }
+      }
+    },
+    "id": "5fa1a9ae-a5bb-4733-aa7a-d9aac947c691"
   }
 ]
