@@ -2,6 +2,10 @@ import { createComponentManifest } from "@atrilabs/utils";
 
 export default createComponentManifest({
 	name: "CustomForm",
+	// add typography related options
+	styles: {
+		typographyOptions: true,
+	},
 	custom: {
 		fields: {
 			type: "array_typed_map",
