@@ -1505,5 +1505,469 @@
       }
     },
     "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "none"
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text"
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "U"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "Us"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "Use"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "User"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "Usern"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "Userna"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "Usernam"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "Username"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "Username "
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "Username"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "Username",
+                "placeholder": "u"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "Username",
+                "placeholder": "us"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "Username",
+                "placeholder": "use"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "Username",
+                "placeholder": "user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "Username",
+                "placeholder": "usern"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "Username",
+                "placeholder": "userna"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "Username",
+                "placeholder": "usernam"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "Username",
+                "placeholder": "username"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "color": "#ffff"
+        }
+      }
+    },
+    "id": "a5065089-1955-4144-8c96-79c8c923b414"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "color": "#ffff"
+        }
+      }
+    },
+    "id": "a5065089-1955-4144-8c96-79c8c923b414"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "Username",
+                "placeholder": "username",
+                "id": "u"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "Username",
+                "placeholder": "username",
+                "id": "us"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "Username",
+                "placeholder": "username",
+                "id": "use"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "fields": [
+            {
+              "selectedOption": "text",
+              "text": {
+                "label": "Username",
+                "placeholder": "username",
+                "id": "user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "1a9015cd-d3f2-4581-9d58-1e3d75c40b31"
   }
 ]
