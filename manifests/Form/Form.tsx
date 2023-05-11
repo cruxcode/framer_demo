@@ -1,10 +1,6 @@
 import React from "react";
-
-type CommonFormControlOptions = {
-	label?: string;
-	id?: string;
-	placeholder?: string;
-};
+import { CommonFormControlOptions } from "./types";
+import { Text } from "./components/Text";
 
 const Form = React.forwardRef<
 	HTMLFormElement,
@@ -35,7 +31,15 @@ const Form = React.forwardRef<
 			className={`${props.className} ${props.attrs?.class || ""}`}
 			id={props.id}
 			style={props.styles}
-		></form>
+		>
+			{/** Add different types of input widgets */}
+			{props.custom.fields.map((field, index) => {
+				if (field.selectedOption === "text") {
+					return <Text {...field.text} key={`${props.id}${index}`} />;
+				}
+				return <div></div>;
+			})}
+		</form>
 	);
 });
 
